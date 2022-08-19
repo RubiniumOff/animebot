@@ -1,0 +1,23 @@
+{
+  "name": "anime_bot",
+  "version": "0.0.1",
+  "description": "\"Бот для телеграм, позволяющий просматривать аниме\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubiniumOff/animebot.git"
+  },
+  "keywords": [
+    "bot",
+    "anime"
+  ],
+  "author": "Rubinium",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RubiniumOff/animebot/issues"
+  },
+  "homepage": "https://github.com/RubiniumOff/animebot#readme"
+}
